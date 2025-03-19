@@ -1,5 +1,6 @@
 2111012
 2111534
-[processori](processori.md)
-[schede_madri](schede_madri.md) 
+periferiche
+[processori](componenti/processori.md)
+[schede_madri](componenti/schede_madri.md) 
 Elettronica Padovana
